@@ -1,0 +1,252 @@
+[[SoftHSM2]]
+arch = "aarch64"
+git-tree-sha1 = "8c682a115cc2bb22be50c895ded5d36f272795fd"
+os = "macos"
+
+    [[SoftHSM2.download]]
+    sha256 = "827abeae109534fd4d2dcffef3333e2787bfcd2274b338897304c6d289b31a86"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.aarch64-apple-darwin.tar.gz"
+[[SoftHSM2]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "558dd24be18a3e77cea1d6258e9cfbb7f40f1436"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "673c56a79818e804519d8e960720c1634bdcafb0d6ddf1ea55de579ad0a337f1"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[SoftHSM2]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1286f747ed0e9d30fe85a5fec5789786e280a3e6"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "536e5a984ce13310565849a6bf70624347217220b39030110db57c967210a9e3"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[SoftHSM2]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "11e57b68e93c8932c1e5b4991184406a12d729df"
+libc = "musl"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "408911451956553603f4a201d90f18c736d0dc1424be7a490956dc0197d33bf7"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.aarch64-linux-musl-cxx03.tar.gz"
+[[SoftHSM2]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "241daba76e277b216ac70ae36a5b15b90e9f6d3a"
+libc = "musl"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "96f1249bf492853d0cc44b57bd29e2878a3031b002f42cfa18f0f4148995ea63"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.aarch64-linux-musl-cxx11.tar.gz"
+[[SoftHSM2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3dbf7fb567db7287cd53528abccf025f47278d56"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "cba5550c96a0b8abbb4f5d402c9e492280338074c99524d54d83d1cb9249e86e"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[SoftHSM2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a59282efa1745a93ea947e989b88e327ce596252"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "5bd2390675d49ec1e78b9af32fa3bc77c3dc9497ac27d7b71381c4d93101b49b"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[SoftHSM2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a1d68aea6c285a0f6fb531d08e3b592e52c56041"
+libc = "musl"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "532462cf196bf8193f015f960ba6171b6d3650d898e417c9c681a23f6e2dff7b"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[SoftHSM2]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6b1ca4b634cd02875f5b99d7122c25b95385f354"
+libc = "musl"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "d65869896334f4dc1cf0bfd6c93c2f1001293fa1671814e3a968b0b01fed28e9"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[SoftHSM2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "08237989919a29791abe184b1b38c7c0edb6d9d5"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "c5a5dc9299c9381d9edc112e9369eded59c25362d8d224054884b5aa9935244c"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[SoftHSM2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f59386736a86c4319fab8be465b5be2cad3d4bc5"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "f263a96331b166bf7b324cc1f39b8b0c41ee195428e482918554d045dd0711d2"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SoftHSM2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "89054225e033a451d2666411bb2331f163f57e4f"
+libc = "musl"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "d9f15ba04ebe3c02bb5a22d06a366f9d482ae78caf40deb449322a6c9ff747af"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[SoftHSM2]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9f2ac5b1d450377eda27596e062e6e42c46d9e39"
+libc = "musl"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "945936e23cf73842614df65d9e70d98e18635cb4d018abb690c985c6d7f56072"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[SoftHSM2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b73d46c0c1e240b66b3196d71b5b07a7bf9eb7c"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "b6d0181ea6ba61c1ac441f44ed6eabc2ce2d4204882cef39ade67c96c95fa95e"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.i686-linux-gnu-cxx03.tar.gz"
+[[SoftHSM2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "40cea51547693591f7067798dcdf9abb774258a6"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "27ffffb60e13178d92ea385091168dc2166b613c8ef3c029d2a60bc1de9e6686"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.i686-linux-gnu-cxx11.tar.gz"
+[[SoftHSM2]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "56e84d03c00a947813cfec804daba3b2491406dc"
+libc = "musl"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "46a2ee53bebc3796c6eb6d4112f007b762bb4bdb736d6b0594c14beda1c3608b"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.i686-linux-musl-cxx03.tar.gz"
+[[SoftHSM2]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f41c51afaf56b2ae4ab793f52d39b31af6855dd1"
+libc = "musl"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "d9e7b2ca20918c015a8ba0c61e0ab1860fa01814f029158c466d55f0cba54376"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.i686-linux-musl-cxx11.tar.gz"
+[[SoftHSM2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a19a26e9c189c2f708766e6c37c78cc73a62d869"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "8af5059e932f436fb3924e3b35a86ab69b524a291bcbf3cccb0601b2e0078540"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[SoftHSM2]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d51ed81d54a01d414f93e2aaf6ee59798140cac7"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "b1f6ed8da801d52cb1fc42f726d07a634135461dc10f23152024fe4d8dc12bd7"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[SoftHSM2]]
+arch = "x86_64"
+git-tree-sha1 = "cd685f9d14a86af8ae0eba6988e2c6282ed4769b"
+os = "macos"
+
+    [[SoftHSM2.download]]
+    sha256 = "c8752899a7693d2cd0cbd2c91085940100e2918599c6c97647e5104c1268b62a"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.x86_64-apple-darwin.tar.gz"
+[[SoftHSM2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "78303a6c3645070c7f4fdd394c244e902a1df352"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "f5843123e8e9d667bbbdfb9db989d4a100ecbe5ba5affb35f4a03cacbce6a51c"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[SoftHSM2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7b2ea08a9f24bae60832076d4fa208bff7aacce6"
+libc = "glibc"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "17a0dd00732f5b03488dfc6543db195e0db85123bc61188c07c49e2ab6607a1a"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[SoftHSM2]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "019f719889f3696fa8041aa49f2c7a70459243ca"
+libc = "musl"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "2f02533a60c006dcca3ada2774c358e0cb6ed431e9bd750c528665dd5800d8b8"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.x86_64-linux-musl-cxx03.tar.gz"
+[[SoftHSM2]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9b1979065160e0680d2544cda896dc2fdc49f4c8"
+libc = "musl"
+os = "linux"
+
+    [[SoftHSM2.download]]
+    sha256 = "fc6e682c36bc8d35a1fe43a2f5403846680dfe2aade7dea923baf3390bffddfe"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.x86_64-linux-musl-cxx11.tar.gz"
+[[SoftHSM2]]
+arch = "x86_64"
+git-tree-sha1 = "79e3dbe006b39cf7ea6011a5bd7e103f7ced1794"
+os = "freebsd"
+
+    [[SoftHSM2.download]]
+    sha256 = "8fbd50093ba600078eaefc48d9e26d7f9d36aec32e63bd240ed3e19bd9ee427b"
+    url = "https://github.com/JuliaBinaryWrappers/SoftHSM2_jll.jl/releases/download/SoftHSM2-v2.6.1+0/SoftHSM2.v2.6.1.x86_64-unknown-freebsd.tar.gz"
